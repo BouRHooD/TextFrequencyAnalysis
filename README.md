@@ -2,9 +2,6 @@
 
 Эмодзи для красивых commits - https://gist.github.com/rxaviers/7360908
 
-Для установки необходимых библиотек, используйте команду в терминале:     
-``` python -m pip install -r requirements.txt ```    
-``` (или pip install -r requirements) ```  
-
-Описание:    
+Описание:   
+Из файла text.txt приложение делает частотный анализ текста (закон Ципфа) и сохраняет результут анализа в файл frequency_analysis_result/out_analysis.csv. После в файл to_draw_graph.xlsx загружается файл out_analysis.csv в сводную таблицу и на основе загруженных данных строятся графики.
 
